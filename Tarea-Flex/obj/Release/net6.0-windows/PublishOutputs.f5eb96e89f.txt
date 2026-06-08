@@ -1,0 +1,5 @@
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\bin\Release\net6.0-windows\publish\Tarea-Flex.exe
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\bin\Release\net6.0-windows\publish\Tarea-Flex.dll
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\bin\Release\net6.0-windows\publish\Tarea-Flex.deps.json
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\bin\Release\net6.0-windows\publish\Tarea-Flex.runtimeconfig.json
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\bin\Release\net6.0-windows\publish\Tarea-Flex.pdb

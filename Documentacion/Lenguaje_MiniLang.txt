@@ -1,0 +1,65 @@
+DOCUMENTACIÓN DEL LENGUAJE MINILANG
+
+1. Descripción
+
+MiniLang es un lenguaje sencillo utilizado para demostrar el funcionamiento de un Analizador Léxico desarrollado mediante FLEX.
+
+2. Palabras Reservadas
+
+* inicio
+* fin
+* si
+* sino
+
+3. Identificadores
+
+Los identificadores representan nombres de variables.
+
+Ejemplos:
+
+* edad
+* nombre
+* variable1
+
+Expresión regular:
+[a-zA-Z_][a-zA-Z0-9_]*
+
+4. Números
+
+Los números representan valores enteros.
+
+Ejemplos:
+
+* 10
+* 25
+* 100
+
+Expresión regular:
+[0-9]+
+
+5. Operadores
+
+* *
+* *
+* *
+* /
+* =
+
+6. Ejemplo de Código
+
+inicio
+
+edad = 25
+
+fin
+
+7. Tokens Reconocidos
+
+* PALABRA_RESERVADA
+* IDENTIFICADOR
+* NUMERO
+* OPERADOR
+
+8. Objetivo
+
+Identificar y clasificar los componentes léxicos de una entrada de texto mediante el uso de FLEX y una interfaz gráfica desarrollada en C#.

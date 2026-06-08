@@ -1,0 +1,17 @@
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\bin\Debug\net6.0-windows\Tarea-Flex.exe
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\bin\Debug\net6.0-windows\Tarea-Flex.deps.json
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\bin\Debug\net6.0-windows\Tarea-Flex.runtimeconfig.json
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\bin\Debug\net6.0-windows\Tarea-Flex.dll
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\bin\Debug\net6.0-windows\Tarea-Flex.pdb
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\obj\Debug\net6.0-windows\Tarea-Flex.csproj.AssemblyReference.cache
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\obj\Debug\net6.0-windows\Tarea_Flex.Form1.resources
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\obj\Debug\net6.0-windows\Tarea-Flex.csproj.GenerateResource.cache
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\obj\Debug\net6.0-windows\Tarea-Flex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\obj\Debug\net6.0-windows\Tarea-Flex.AssemblyInfoInputs.cache
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\obj\Debug\net6.0-windows\Tarea-Flex.AssemblyInfo.cs
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\obj\Debug\net6.0-windows\Tarea-Flex.csproj.CoreCompileInputs.cache
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\obj\Debug\net6.0-windows\Tarea-Flex.dll
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\obj\Debug\net6.0-windows\refint\Tarea-Flex.dll
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\obj\Debug\net6.0-windows\Tarea-Flex.pdb
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\obj\Debug\net6.0-windows\Tarea-Flex.genruntimeconfig.cache
+C:\Users\Angel Salazar\Desktop\Compiladores\Flex\Tarea-Flex\Tarea-Flex\obj\Debug\net6.0-windows\ref\Tarea-Flex.dll
