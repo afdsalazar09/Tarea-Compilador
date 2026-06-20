@@ -33,6 +33,8 @@
             this.dgvTokens = new System.Windows.Forms.DataGridView();
             this.colToken = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colLexema = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.lblSintaxis = new System.Windows.Forms.Label();
+            this.lblSemantica = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvTokens)).BeginInit();
             this.SuspendLayout();
             // 
@@ -63,12 +65,12 @@
             this.dgvTokens.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.colToken,
             this.colLexema});
-            this.dgvTokens.Location = new System.Drawing.Point(247, 234);
+            this.dgvTokens.Location = new System.Drawing.Point(252, 324);
             this.dgvTokens.Name = "dgvTokens";
             this.dgvTokens.ReadOnly = true;
             this.dgvTokens.RowHeadersWidth = 51;
             this.dgvTokens.RowTemplate.Height = 29;
-            this.dgvTokens.Size = new System.Drawing.Size(305, 185);
+            this.dgvTokens.Size = new System.Drawing.Size(296, 120);
             this.dgvTokens.TabIndex = 2;
             // 
             // colToken
@@ -87,11 +89,34 @@
             this.colLexema.ReadOnly = true;
             this.colLexema.Width = 125;
             // 
+            // lblSintaxis
+            // 
+            this.lblSintaxis.AutoSize = true;
+            this.lblSintaxis.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblSintaxis.Location = new System.Drawing.Point(251, 231);
+            this.lblSintaxis.Name = "lblSintaxis";
+            this.lblSintaxis.Size = new System.Drawing.Size(301, 41);
+            this.lblSintaxis.TabIndex = 3;
+            this.lblSintaxis.Text = "Resultado sintáctico";
+            this.lblSintaxis.Click += new System.EventHandler(this.lblSintaxis_Click);
+            // 
+            // lblSemantica
+            // 
+            this.lblSemantica.AutoSize = true;
+            this.lblSemantica.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblSemantica.Location = new System.Drawing.Point(251, 277);
+            this.lblSemantica.Name = "lblSemantica";
+            this.lblSemantica.Size = new System.Drawing.Size(309, 41);
+            this.lblSemantica.TabIndex = 4;
+            this.lblSemantica.Text = "Resultado semántico";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lblSemantica);
+            this.Controls.Add(this.lblSintaxis);
             this.Controls.Add(this.dgvTokens);
             this.Controls.Add(this.btnAnalizar);
             this.Controls.Add(this.txtCodigo);
@@ -110,5 +135,7 @@
         private DataGridView dgvTokens;
         private DataGridViewTextBoxColumn colToken;
         private DataGridViewTextBoxColumn colLexema;
+        private Label lblSintaxis;
+        private Label lblSemantica;
     }
 }
